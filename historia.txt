@@ -1,0 +1,8 @@
+Esta es la historia de Isaac Rios, en el mundo de Git.
+
+Isaac Rios tiene 32 años y nacio en Guadalajara, 
+viviendo en CDMX.
+
+Estos son mis primero pasos como desarrollador de software.
+
+Hoy hablaremos de su vida y obra maestra.
