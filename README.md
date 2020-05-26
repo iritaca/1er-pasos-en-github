@@ -12,4 +12,9 @@ Un blog increible para el curso de Git y github
 * Paso 1 guardar en stash este cambio
 * Nueva y ultima linea generada para observar los cambios generados con git cherry-pick
 * Paso 2 Cambiar a una nueva rama utilizando el comando "git stash branch (Nombre de rama)"
+
 * Paso 3 Realizar algunos cambios extras para esta practica
+* Paso 4 Realizar los commits despues de cada cambio
+
+## Nueva linea a traer
+* Nueva y ultima linea generada para observar los cambios generados con git cherry-pick
