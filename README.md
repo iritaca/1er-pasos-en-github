@@ -10,4 +10,4 @@ Un blog increible para el curso de Git y github
 
 ## Aqui comienza la practica de Git cherry-pick
 * Paso 1 guardar en stash este cambio
-* Nueva y ultima linea generada para observar los cambios generados con git cherry-pick
+
