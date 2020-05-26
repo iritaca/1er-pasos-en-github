@@ -8,3 +8,6 @@ Un blog increible para el curso de Git y github
 * Amor por buenas practicas
 * Correccion de algunos errores
 
+## Aqui comienza la practica de Git cherry-pick
+* Paso 1 guardar en stash este cambio
+
